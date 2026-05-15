@@ -4,8 +4,8 @@ CNN from Scratch for Fashion MNIST
 Implements Convolution, Pooling, Flatten, Fully Connected layers
 with forward and backward passes (backpropagation), trained on Fashion MNIST.
 
-Author  : [Sereen Varshese]
-USN     : [PES1PG25CS057]
+Author  : [Sunku Peda Akshay]
+USN     : [PES1PG25CS067]
 Subject : DLTP Assignment 1
 """
 
